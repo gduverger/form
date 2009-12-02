@@ -19,7 +19,7 @@ It will then **show that *saved* element** (`span`) and **hide the initial input
 Edit
 ----
 
-	$("input#example").save()
+	$("input#example").edit()
 	
 The command above does the opposite of `save()` — it will **hide the *saved* element** and **show the initial input** (`#example`).
 
